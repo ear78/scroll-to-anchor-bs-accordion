@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/scroll-to-anchor-accordion.iml" filepath="$PROJECT_DIR$/.idea/scroll-to-anchor-accordion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scroll-to-anchor-bs-accordion/.idea/scroll-to-anchor-accordion.iml" filepath="$PROJECT_DIR$/../scroll-to-anchor-bs-accordion/.idea/scroll-to-anchor-accordion.iml" />
     </modules>
   </component>
 </project>
